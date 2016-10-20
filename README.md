@@ -1,18 +1,17 @@
-
-_Не удаляйте и не обращайте внимание на файлы:_<br>
+_Do not delete or change files:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 ---
 
-#### 1. Создайте форк
+#### 1. Create Fork
 
-[Откройте мастер-репозиторий] и нажмите кнопку «Fork» в правом верхнем углу. Репозиторий скопируется в ваш аккаунт.
+[Open master-repository] and press button «Fork» at the top right corner of your screen. Repository will be cloned to your acc.
 
-#### 2. Клонируйте репозиторий на свой компьютер
+#### 2. Clone project to your computer
 
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку с иконкой компьютера и стрелкой, чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
+Be carefull: you need to clone your repository (fork), not mine. Press green button Clone or Download, to clone repository via [GitHub Desktop](https://desktop.github.com):
 
-Программа клонирует репозиторий на ваш компьютер и подготовит всё необходимое для старта работы.
+Program will clone project to your computer and will prepare everything for your work.
 
-#### 4. Начинайте обучение!
+#### 4. Start training!
 ---
