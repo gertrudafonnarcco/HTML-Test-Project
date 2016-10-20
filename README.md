@@ -11,7 +11,7 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 Be carefull: you need to clone your repository (fork), not mine. Press green button Clone or Download, to clone repository via [GitHub Desktop](https://desktop.github.com):
 
-Program will clone project to your computer and will prepare everything for your work.
+Program will clone project to your computer and prepare everything for your work.
 
 #### 4. Start training!
 ---
